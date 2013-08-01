@@ -9,5 +9,6 @@
     "_typography.scss",
     "functions/_asset-paths.scss",
     "functions/_baseline.scss"
-  ]
+  ],
+  "repo": "https://raw.github.com/iman-styles/base"
 }
