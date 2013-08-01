@@ -1,0 +1,13 @@
+{
+  "name": "base",
+  "main": "index.scss",
+  "version": "0.0.1",
+  "dependencies": {},
+  "styles": [
+    "index.scss",
+    "_base.scss",
+    "_typography.scss",
+    "functions/_asset-paths.scss",
+    "functions/_baseline.scss"
+  ]
+}
